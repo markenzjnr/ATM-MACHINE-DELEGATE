@@ -1,0 +1,7 @@
+C:\Users\42-DAWG\Desktop\C#\ATM MACHINE\ATM MACHINE\bin\Debug\ATM MACHINE.exe.config
+C:\Users\42-DAWG\Desktop\C#\ATM MACHINE\ATM MACHINE\bin\Debug\ATM MACHINE.exe
+C:\Users\42-DAWG\Desktop\C#\ATM MACHINE\ATM MACHINE\bin\Debug\ATM MACHINE.pdb
+C:\Users\42-DAWG\Desktop\C#\ATM MACHINE\ATM MACHINE\obj\Debug\ATM MACHINE.csproj.AssemblyReference.cache
+C:\Users\42-DAWG\Desktop\C#\ATM MACHINE\ATM MACHINE\obj\Debug\ATM MACHINE.csproj.CoreCompileInputs.cache
+C:\Users\42-DAWG\Desktop\C#\ATM MACHINE\ATM MACHINE\obj\Debug\ATM MACHINE.exe
+C:\Users\42-DAWG\Desktop\C#\ATM MACHINE\ATM MACHINE\obj\Debug\ATM MACHINE.pdb
